@@ -21,8 +21,8 @@
 + `-` to create a small platform
 + `S` to create a vertical spike
 + `s` to create a vertical small spike
-+ `O` to create a saw
-+ `o` to create a jump orb
++ `o` to create a saw
++ `O` to create a jump orb
 + `0` to create a gravity jump orb
 + `_` to create a jump pad
 + `=` to creare a gavity jump pad
