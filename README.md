@@ -19,17 +19,13 @@
 ### Different text characters to use:
 + `#` to create a platform
 + `-` to create a small platform
-+ `S` to create a vertical (up) spike
-+ `s` to create a vertical (up) small spike
-+ `}` to create a horizontal (right) spike
-+ `>` to create a horizontal (right) small spike
-+ `{` to create a horizontal (left) spike
-+ `<` to create a horizontal (left) small spike
-+ `V` to create a vertical (down) spike
-+ `v` to create a vertical (down) small spike
++ `S` to create a vertical spike
++ `s` to create a vertical small spike
 + `O` to create a saw
 + `o` to create a jump orb
++ `0` to create a gravity jump orb
 + `_` to create a jump pad
++ `=` to creare a gavity jump pad
 
 ## Coming in future updates:
 + Whole main menu: can select characters, levels, and play
